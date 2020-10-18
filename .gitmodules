@@ -1,0 +1,3 @@
+[submodule "inno_music_frontend"]
+	path = inno_music_frontend
+	url = https://github.com/DrunkenElf/inno_music_frontend.git
